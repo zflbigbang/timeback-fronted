@@ -6,9 +6,12 @@
 
 1. 代码和 vue3-ts-demo 完全一样
 2. 需要自己修改,有些内容不对 user 开放,比如 post 的审批.
+### 代码地址:
+https://github.com/zflbigbang/user
 
 ## vue3-ts-demo(管理员页面)
-
+### 代码地址:
+https://github.com/zflbigbang/vue3-ts-demo
 ### 这是一个 demo 没有进行改动
 
 ### b 站手把手视频教程:
